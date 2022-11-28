@@ -2,10 +2,10 @@ Student: Tim Goodwin
 GT Account: tgoodwin7
 
 Programming Environment:  Colab
-MDP Library: MDP Toolbox for Python. Location: https://github.com/hiive/hiivemdptoolbox
+MDP Libraries: mdptoolbox-hiive, gym, pymdptoolbox
 
 Code (colab notebooks) can be found at https://github.com/webshredder/CS7641_MDP
 
-Colab Notebooks(filenames indicate dataset and algo)
-- MDP1.ipynb
-- MDP2.ipynb
+Colab Notebooks(filenames indicate MDP problem)
+- MDP_ForestManagement.ipynb
+- MDP_FrozenLake.ipynb
